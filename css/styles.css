@@ -1,0 +1,15 @@
+.header h1 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 60px;
+}
+
+.content{
+  font-family:sans-serif;
+  font-size: 25px;
+}
+
+.content li {
+  list-style-type: lower-roman;
+  font-family: cursive;
+}
